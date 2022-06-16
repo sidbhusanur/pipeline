@@ -14,6 +14,7 @@ namespace pipeline
     {
         public Startup(IConfiguration configuration)
         {
+            //Added comments
             Configuration = configuration;
         }
 
